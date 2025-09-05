@@ -3,9 +3,8 @@ echo "Hello, Imtiaz! <br>";
 echo"Its my first PHP file";
 //This is a comment
 
-/*
-This is a multi-line comment
-*/
+/* this is a multi-line comment
+    that spans multiple lines */
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -18,4 +17,5 @@ This is a multi-line comment
     <br>
     <button>Order Pizza</button>
 </body>
+
 </html>
